@@ -17,6 +17,7 @@
 // </div>
 //
 // Create a card for each of the articles and add the card to the DOM.
+
 function cardMaker(headlineContent, authorImage, authorsName){
     card = document.createElement('div');
     headline = document.createElement('div');
